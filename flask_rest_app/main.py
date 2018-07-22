@@ -1,0 +1,1 @@
+from flask_rest_app.app import app as application

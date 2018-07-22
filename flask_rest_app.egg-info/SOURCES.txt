@@ -1,0 +1,6 @@
+README.md
+flask_rest_app.egg-info/PKG-INFO
+flask_rest_app.egg-info/SOURCES.txt
+flask_rest_app.egg-info/dependency_links.txt
+flask_rest_app.egg-info/requires.txt
+flask_rest_app.egg-info/top_level.txt
