@@ -1,4 +1,4 @@
-A rest api application build using Flask-restful with basic auth
+A rest api application build using Flask-restplus with basic auth
 - Python PIL library wrapped inside Flask-restful interface
 - A post call to the rest api with url of the publically accesible image will
 invoke requested operation on to the image
