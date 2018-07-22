@@ -13,8 +13,8 @@ Steps to deploy
 - Move to flask_nginx_docker directory
    - cd flask_nginx_docker
 - Run command
-   - docker build -t load_app .
-   - docker run -p 80:80 -t load_app
+   - docker build -t flask_rest_app .
+   - docker run -p 80:80 -t flask_rest_app
 - Open browser and navigate to: http://0.0.0.0/api/
 - Use swagger UI to interact with the api
 - Username and password for auth: admin/password
