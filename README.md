@@ -9,7 +9,7 @@ Pre-requisite: Docker and git installed on the system
 
 Steps to deploy
 - Clone git repository
-   - git clone
+   - git clone https://github.com/cjsanjay/flask_nginx_docker.git
 - Move to flask_nginx_docker directory
    - cd flask_nginx_docker
 - Run command
